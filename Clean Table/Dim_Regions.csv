@@ -1,0 +1,7 @@
+Region_Code,Region_Name,Warehouse,Tax_Pct
+REG-NA-E,North America - East,New York Hub,7.00%
+REG-NA-W,North America - West,California Hub,8.25%
+REG-NA-C,North America - Central,Chicago Hub,6.50%
+REG-EU-UK,Europe - UK,London Hub,20.00%
+REG-EU-DE,Europe - DACH,Frankfurt Hub,19.00%
+REG-APAC-IN,Asia-Pacific - India,Mumbai Hub,18.00%
