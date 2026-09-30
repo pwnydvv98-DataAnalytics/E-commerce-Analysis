@@ -1,0 +1,21 @@
+Clean_SKU,Clean_productName,Clean_Category,Clean_SubCategory,Clean_Price,Clean_Cost
+SKU-EL-01,Noise-Cancelling Headphones Pro,Electronics,Audio,149.99,62
+SKU-EL-02,True Wireless Earbuds Gen 2,Electronics,Audio,79.99,31.5
+SKU-EL-03,65W GaN Fast Charger,Electronics,Accessories,34.99,11.2
+SKU-EL-04,Smart RGB Desk Light Strip,Electronics,Smart Home,29.99,9.8
+SKU-EL-05,Portable Bluetooth Speaker Max,Electronics,Audio,99.99,42
+SKU-EL-06,Ultra-Slim Mechanical Keyboard,Electronics,Peripherals,119.5,52
+SKU-EL-07,Ergonomic Vertical Wireless Mouse,Electronics,Peripherals,49.99,18.5
+SKU-HO-01,Ergonomic Task Office Chair,Home & Office,Furniture,229,110
+SKU-HO-02,Solid Walnut Dual Monitor Riser,Home & Office,Desk Setup,64.5,22
+SKU-HO-03,Anti-Fatigue Standing Mat,Home & Office,Desk Setup,49.99,16.5
+SKU-HO-04,ScreenBar Monitor Eye-Care Lamp,Home & Office,Lighting,89,34
+SKU-HO-05,Cable Management Under-Desk Tray,Home & Office,Desk Setup,29.5,8.5
+SKU-LF-01,Insulated Stainless Tumbler 1L,Lifestyle,Hydration,32,9.5
+SKU-LF-02,Waterproof Commuter Backpack 24L,Lifestyle,Bags,89.99,36
+SKU-LF-03,Tech Accessory Cord Organizer,Lifestyle,Travel,24.5,7.2
+SKU-LF-04,Ultrasonic Ceramic Diffuser,Lifestyle,Wellness,44.99,14.5
+SKU-AP-01,Dry-Fit Athletic Performance Tee,Fitness & Apparel,Activewear,28,8
+SKU-AP-02,Flex-Stretch Training Shorts,Fitness & Apparel,Activewear,38,11.5
+SKU-AP-03,Natural Cork High-Grip Yoga Mat,Fitness & Apparel,Equipment,45,15
+SKU-AP-04,Adjustable Speed Jump Rope,Fitness & Apparel,Equipment,19.99,5.5
