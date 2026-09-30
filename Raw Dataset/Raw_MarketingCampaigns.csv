@@ -1,0 +1,8 @@
+Campaign_ID,Channel_Source,Campaign_Name,Target_CPA
+CMP-META-01,Meta Ads,Meta Spring Sale Retargeting,15.00
+CMP-META-02,meta,Meta Prospecting Video Ads,$25.00
+CMP-GOOG-01,Google Search,Google Brand Search Intent,12.00
+CMP-GOOG-02,Google Ads,Google Performance Max High-ROAS,18.00
+CMP-EML-01,Email Newsletter,Weekly VIP Product Drops,3.00
+CMP-AFF-01,Affiliates,Creator Ambassador Partner Program,8.00
+CMP-ORG-00,Organic / Direct,Organic SEO & Direct Traffic,0.00
